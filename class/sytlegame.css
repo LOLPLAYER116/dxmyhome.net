@@ -1,0 +1,40 @@
+body {
+    background-color: snow;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.p .bw {
+    align-items: center;
+    text-align: center;
+    border: rgb(1, 157, 168) solid 20px;
+    border-radius: 10px;
+}
+
+.p .wb {
+    align-items: center;
+    text-align: center;
+    border: rgb(1, 157, 168) solid 20px;
+    border-radius: 10px;
+}
+
+.Ls {
+    background-color: rgb(255, 235, 56);
+    color: rgb(255, 225, 56);
+    text-align: center;
+}
+
+.Ls a{
+    color: white;
+    text-decoration: none;
+    transition: 0.6s;
+}
+
+.Ls a:hover {
+    color: green;
+    text-decoration: none;
+    transition: 0.6s;
+}
+
+.fk {
+    text-align: center;
+}
